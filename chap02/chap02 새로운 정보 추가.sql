@@ -1,0 +1,1 @@
+INSERT INTO public.user_info VALUES ('liz04','리즈','0411214000004','SK','01044444444');
