@@ -1,0 +1,1 @@
+SELECT * FROM fms.breeds_prod_tbl;
